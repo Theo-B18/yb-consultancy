@@ -251,12 +251,11 @@
                                                     }
                                                     .box {
                                                         margin-top: 10px;
-                                                        border: 5px solid white;
                                                     }
-                                                    .box:hover {
+                                                    /*.box:hover {
                                                         margin-top: 10px;
                                                         border: 5px solid red;
-                                                    }
+                                                    }*/
                                                     .box-text {
                                                         color: white;
                                                         padding: 5px;
