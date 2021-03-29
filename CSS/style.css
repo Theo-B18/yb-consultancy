@@ -327,3 +327,12 @@
                                                         padding-bottom: 0%;
                                                     }
                                                 }
+                                                /*PROFILE STYLING*/
+                                                
+                                                .straight-line-red {
+                                                    border: 10px solid red;
+                                                }
+                                                
+                                                .straight-line-blue {
+                                                    border: 10px solid #173F5F;
+                                                }
