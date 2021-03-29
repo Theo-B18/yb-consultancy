@@ -2,8 +2,9 @@ var today = new Date();
 var hourNow = today.getHours();
 var greetings;
 
+
 if (hourNow > 10) {
-    greeting = 'GOOD EVENING';
+    greeting = 'Good evening';
 } else if (hourNow > 12) {
     greeting = 'GOOD AFTERNOON';
 } else if (hourNow > 0) {
@@ -12,4 +13,4 @@ if (hourNow > 10) {
     greeting = 'Welcome';
 }
 
-//document.write('<h3>' + greeting + '</h3>');
+document.write('<h3>' + greeting + '     ' + '' + 'client!!' + '</h3>');
