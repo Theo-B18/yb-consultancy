@@ -79,6 +79,7 @@
                                                 
                                                 #navbartwo {
                                                     background: white;
+                                                    margin-top: 50px;
                                                 }
                                                 
                                                 #navbartwo img {
@@ -86,6 +87,7 @@
                                                     height: 100px;
                                                     width: 100px;
                                                     border-radius: 30px;
+                                                    /*margin-top: 30px;*/
                                                 }
                                                 
                                                 #navbartwo ul li a:hover {
